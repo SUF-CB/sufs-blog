@@ -1,0 +1,403 @@
+body{ 
+background: #614385;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1A1A1D,#282828 );  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1A1A1D,#282828); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+     text-align: center;
+
+} 
+      
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+   color: #FFFFFF; 
+     text-align: center;
+     font-size:80px;
+}
+h1a{
+    font-family: 'Josefin Sans', sans-serif;
+   color: #FFFFFF; 
+     text-align: center;
+     font-size:60px;
+}
+
+
+p{
+   font-family: 'Catamaran', sans-serif;
+   color: #FFFFFF;
+   text-align: center; 
+  font-size:18px;
+}
+
+h2{
+       font-family: 'Catamaran', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size:45px;
+        font-weight: bold;
+  }
+h2a{
+       font-family: 'Catamaran', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size:35px;
+        font-weight: bold;
+  }
+.box1 {
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#fb9902;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box2 {
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#2F329F;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box3 {
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#0020C2;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box4 {
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:	#48D1CC;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box5{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#32CD30;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box6{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#FFD900;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box7{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#e30b5d;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box8{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:	#D6AD60;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box9{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#009933;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box10{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#ff0000;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box101{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#000000;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box11{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#FFC0CB;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+.box12{
+ 
+
+  backdrop-filter: blur(8px); /*blur filter for text*/
+  max-width: 100%;
+  max-height: 100%;
+background-color:#d8b9ff;
+border: 2px solid rgba(255,255);
+box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
+overflow:hidden;
+}
+
+h3a{
+  font-family: 'Josefin Sans', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size:33px;
+        font-weight: bold; 
+
+}
+
+
+
+
+
+
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size:33px;
+        font-weight: bold; 
+        text-decoration: underline;
+}
+
+img{
+ Display:block;
+ margin-left:auto;
+margin-right:auto;
+object-fit: cover;
+   height: auto;
+  width: 50%;
+/* even more control with max-width */
+  max-width: 300px;
+    border-radius: 25px;
+}
+
+
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+.centercolumn {
+  float: centre;
+  width: 25%;
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-centre: 20px;
+}
+}
+
+/* Add a card effect for articles */
+.card1 {
+  background-color:#fb9902;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.cardme {
+  background-color:#2F329F;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.cardmedia {
+  background-color:#960018;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card2{
+  background-color:#0020C2;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card3{
+  background-color:	#48D1CC;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card4{
+  background-color:	#32CD30;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card5{
+  background-color:#FFD900;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card6{
+  background-color:#e30b5d;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card7{
+  background-color:#D6AD60;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card8{
+  background-color: #009933;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card9{
+  background-color: #ff0000;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}.card9posts{
+  background-color: #000000;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card10{
+  background-color: #FFC0CB;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+.card11{
+  background-color: #d8b9ff;
+  padding: 20px;
+  margin-top: 20px;
+   border-radius: 25px;
+}
+
+
+
+
+
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+.social-buttons a{
+  display: inline-flex;
+  text-decoration: none;
+  font-size: 27px;
+  width: 100px;
+  height: 100px;
+  color: #be9749;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 0 8px;
+}
+
+.social-buttons a::before{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(45deg,#be9749,#be9749);
+  border-radius: 50%;
+  z-index: -1;
+  transition: 0.3s ease-in;
+}
+
+.social-buttons a:hover::before{
+  transform: scale(0);
+}
+
+.social-buttons a i{
+  transition: 0.3s ease-in;
+}
+
+.social-buttons a:hover i{
+  background: linear-gradient(45deg,#008b9b,#bbd7dd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transform: scale(2.2);
+}
+figcaption{
+    font-family: 'Catamaran', sans-serif;
+   color: #FFFFFF;
+   text-align: center; 
+}
+button{
+  background-color:rgb(0,0,0,0.5); 
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 25px; /*border box size*/
+}
+button:hover {
+  background-color: #be9749 ;
+  color: white;
+}
