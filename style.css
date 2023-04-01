@@ -182,7 +182,7 @@ overflow:hidden;
   backdrop-filter: blur(8px); /*blur filter for text*/
   max-width: 100%;
   max-height: 100%;
-background-color:#d8b9ff;
+background-color:	#CD853F;
 border: 2px solid rgba(255,255);
 box-shadow: 5px 15px 30px -10px rgb(0,0,0,);
 overflow:hidden;
@@ -227,7 +227,7 @@ object-fit: cover;
 /* Left column */
 .leftcolumn {
   float: left;
-  width: 75%;
+  width: 75%;  
 }
 
 /* Right column */
@@ -325,7 +325,7 @@ object-fit: cover;
    border-radius: 25px;
 }
 .card11{
-  background-color: #d8b9ff;
+  background-color: 	#CD853F;
   padding: 20px;
   margin-top: 20px;
    border-radius: 25px;
